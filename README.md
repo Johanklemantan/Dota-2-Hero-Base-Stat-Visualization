@@ -25,6 +25,12 @@ Here is some spotlight of the result :
   <img src='result3.png' width="450" /> 
 </p> <br>
 
+You can also check the base stat of your favourite hero there! <br><br><br>
+<img src='result4.PNG'>
+
+
+Feel free to check my tableau profile <a href='https://public.tableau.com/profile/johan.klemantan.widagdo#!/'>Here</a>
+
 
 ### Thankyou
 ### Happy Coding !
